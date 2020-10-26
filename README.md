@@ -1,17 +1,20 @@
-### Hi there 👋
+#### Hi there 👋 My name is Mohamed Mazraoui - Fullstack Developer
 
-<!--
-**MohamedMazraoui/MohamedMazraoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Currently working as frontend developer [@scalify](https://scalify.com) 🚀.
 
-# Frontend Developer
+📋 [LinkedIn](https://www.linkedin.com/in/mohamed-mazraoui-2742a0153/)
+🌐 www.mazraoui.com
+Contact me 💌 contact@mazraoui.com
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://mazraoui.com)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://mazraoui.com)
+##### Competence!
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
+  - Css ( Scss )
+  - Javascript ( Jquery, Vuejs )
+  - PHP ( Laravel , Wordpress)
+  - Database ( Mysql )
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
 
+##### API!
+ - Facebook API 🔊
+ - Google Analytics API 💹
