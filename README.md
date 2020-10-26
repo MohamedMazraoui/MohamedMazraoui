@@ -3,7 +3,9 @@
 👨‍💻 Currently working as frontend developer [@scalify](https://scalify.com) 🚀.
 
 📋 [LinkedIn](https://www.linkedin.com/in/mohamed-mazraoui-2742a0153/)
+
 🌐 www.mazraoui.com
+
 Contact me 💌 contact@mazraoui.com
 
 
