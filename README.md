@@ -11,12 +11,14 @@ Contact me 💌 contact@mazraoui.com
 
 ##### Competence!
 
-  - Css ( Scss )
-  - Javascript ( Jquery, Vuejs )
-  - PHP ( Laravel , Wordpress)
-  - Database ( Mysql )
+  - Html
+  - Css
+  - Javascript / Typescript
+  - PHP
+  - Database 
 
 
 ##### API!
  - Facebook API 🔊
+ - Google Ads API 📣
  - Google Analytics API 💹
